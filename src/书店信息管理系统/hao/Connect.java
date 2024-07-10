@@ -1,7 +1,7 @@
 package 书店信息管理系统.hao;
 
 import java.sql.*;
-
+// 这里是要输入自己的数据库名称 密码等
 public class Connect {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/书店管理信息系统?characterEncoding=utf8";
     private static final String DB_USER = "root";
